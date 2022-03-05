@@ -2,7 +2,7 @@
 ### Year I 
 ### Part I
 
-A game using c where computer is the codemaker and player is the codebreaker
+A game using c programming where computer is the codemaker and player is the codebreaker
 
 
 #### Submitted by:
